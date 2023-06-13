@@ -1,2 +1,0 @@
-Fecha		Versión		Cambios
-8-06-2023	5.1.0		Se actualiza conexión de base de datos con mysql
