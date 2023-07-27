@@ -1,0 +1,21 @@
+{
+    "name": "MorrisTech",
+    "short_name": "MTech",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#008080",
+    "icons": [
+      {
+        "src": "view/Images/LogoBlancoMT.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "view/Images/LogoBlancoMT.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  

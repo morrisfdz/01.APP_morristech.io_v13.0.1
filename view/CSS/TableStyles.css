@@ -1,0 +1,119 @@
+#AlturaImagenesEmpresas_Proyectos {
+    height:10px
+}
+
+
+/*Da formato a la tabla de los clientes que solicitan información en el formulario*/
+.contact_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.table {
+    border: 1px solid #fff;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.table th,
+.table td {
+    border: 1px solid #dee2e6;
+}
+
+
+
+
+
+
+/* Table Styles */
+
+.table-wrapper{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fl-table {
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: normal;
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    white-space: nowrap;
+    background-color: white;
+}
+
+.fl-table td, .fl-table th {
+    text-align: center;
+    padding: 8px;
+}
+
+.fl-table td {
+    border-right: 1px solid #f8f8f8;
+    font-size: 12px;
+}
+
+.fl-table thead th {
+    color: #ffffff;
+    background: #5a429a;
+}
+
+
+.fl-table thead th:nth-child(odd) {
+    color: #ffffff;
+    background: #324960;
+}
+
+.fl-table tr:nth-child(even) {
+    background: #F8F8F8;
+}
+
+/* Responsive */
+
+.styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+} /*Border around table*/
+
+.styled-table thead tr {
+    background-color: rgb(98,79,200);
+    color: #ffffff;
+    text-align: left;
+}/*header color*/
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+} /*padding for all cells*/
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}/* thicker dividing lines*/
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}/* zebra stripe rows*/
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid rgb(98,79,200);
+}/* Line at bottom */
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}/*active-row bold*/
+
+.table-container {
+    height: 600px; /* Establece la altura deseada */
+    overflow-y: auto; /* Habilita el desplazamiento vertical si el contenido excede la altura */
+}

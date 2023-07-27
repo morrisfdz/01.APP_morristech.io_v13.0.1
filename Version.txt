@@ -1,0 +1,25 @@
+Sitio Principal MorrisTech.io
+
+Fecha		    Version     Detalle
+12-6-2023	    6.1.0       Sección administrativa, mejora menú y conexiones con BD
+13-06-2023  	6.1.1       Se agregan los comentarios necesarios al código
+26-06-2023  	8.0.1       Se inicia rediseño de la página debido a perdida de los estilos y scripts por perdida del servidor donde se almacenanan
+27-06-2023  	9.0.1       Se rediseña el aplicativo y se mejora el concepto Mobile First y se corrige conexión con BD
+05-07-2023      10.0.1      Creación de login con su seguridad 
+12-07-2023      11.0.1      Implementación de AJAX en la tabla de administración de proyecto
+14-07-2023      12.0.1      Uso de cantidad de datos por página y paginación quemado por código
+16-07-2023      13.0.1      Implementación de servicio web para obtener tipo de cambio del dolar
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Fecha		    Version     Detalle
+API Proveído
+19-07-2023      13.1.0.1    Creación de un aplicativo aparte en JAVA para la creación de un API que permite llenar el formulario de proyecto desde un sitio de terceros
+21-07-2023      13.1.1.1    Se vuelve a implementar el API en el lenguaje C# para un mejor manejo del API
+
+
+----------------------- Continuar 13.1.1.1 -----------------------
